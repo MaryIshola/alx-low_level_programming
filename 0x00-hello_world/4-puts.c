@@ -1,24 +1,16 @@
 #include <stdio.h>
 
-/**
+ /**
   * main - This is the body of the code
-
   *
- 
   * Return: Must return an integer value always zero
- 
   */
+ int main(void)
+ {
 
-int main(void)
+         char a[] = "\"Programming is like building a multilingual puzzle";
 
-{
-
-	char a[] = "\"Programming is like building a multilingual puzzle";
-
-
-
-	puts(a);
-
-	return (0);
+	 puts(a);
+         return (0);
 
 }
