@@ -4,11 +4,11 @@
 
 /**
  *
- *  * main -Entry point
+ *  * main - This is the body of the code
  *
  *   *
  *
- *    * Return: Always 0 (Success)
+ *    * Return: Must return an integer value always zero
  *
  *     */
 
@@ -16,8 +16,12 @@ int main(void)
 
 {
 
-		puts("\"Programming is like building a multilingual puzzle");
+		char a[] = "\"Programming is like building a multilingual puzzle";
 
-			return (0);
+
+
+			puts(a);
+
+				return (0);
 
 }
