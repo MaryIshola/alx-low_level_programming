@@ -1,20 +1,3 @@
-
-Muizzyranking
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x10-variadic_functions/1-print_numbers.c
-@Muizzyranking
-Muizzyranking 0x10. C - Variadic functions
- 1 contributor
-29 lines (23 sloc)  618 Bytes
 #include "variadic_functions.h"
 #include <stdio.h>
 #include <stdarg.h>
