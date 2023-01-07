@@ -1,20 +1,4 @@
 
-Muizzyranking
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x1A-hash_tables/100-sorted_hash_table.c
-@Muizzyranking
-Muizzyranking Done
- 1 contributor
-221 lines (188 sloc)  4.37 KB
 #include "hash_tables.h"
 
 shash_table_t *shash_table_create(unsigned long int size);
